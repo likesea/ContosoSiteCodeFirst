@@ -24,3 +24,7 @@ d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\Contos
 d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.csprojResolveAssemblyReference.cache
 d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.dll
 d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.pdb
+d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\EntityFramework.dll
+d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\EntityFramework.SqlServer.dll
+d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\EntityFramework.xml
+d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\EntityFramework.SqlServer.xml

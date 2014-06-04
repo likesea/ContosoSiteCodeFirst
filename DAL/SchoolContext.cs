@@ -10,7 +10,7 @@ namespace ContosoSiteCodeFirst.DAL
     public class SchoolContext : DbContext
     {
         public SchoolContext()
-            : base("ScoolContext")
+            : base("SchoolContext")
         {
 
         }
