@@ -5,7 +5,13 @@
 }
 
 <h2>Details</h2>
-
+@using (Html.BeginForm())
+{
+    <p>
+        Find by name:@Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
 <div>
     <h4>Student</h4>
 	<hr />
