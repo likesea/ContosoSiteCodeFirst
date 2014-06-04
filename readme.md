@@ -1,0 +1,1 @@
+这是一个MVC5的入门教程，利用EntityFramwork6和CodeFirst的方式搭建
