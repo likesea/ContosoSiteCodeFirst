@@ -28,3 +28,7 @@ d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\Contos
 d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\EntityFramework.SqlServer.dll
 d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\EntityFramework.xml
 d:\users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\EntityFramework.SqlServer.xml
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\PagedList.dll
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\PagedList.Mvc.dll
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\PagedList.xml
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\PagedList.Mvc.xml
