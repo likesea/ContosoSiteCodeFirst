@@ -32,3 +32,6 @@ d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\Contos
 d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\PagedList.Mvc.dll
 d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\PagedList.xml
 d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\PagedList.Mvc.xml
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.Migrations.InitialCreate.resources
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.csproj.GenerateResource.Cache
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.Migrations.InitialCreate1.resources
