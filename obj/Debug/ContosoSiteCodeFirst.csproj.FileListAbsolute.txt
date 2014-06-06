@@ -34,4 +34,6 @@ d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\Contos
 d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\bin\PagedList.Mvc.xml
 d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.Migrations.InitialCreate.resources
 d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.csproj.GenerateResource.Cache
-d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.Migrations.InitialCreate1.resources
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.Migrations.MaxLengthOnNames.resources
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.Migrations.ColumFirstName.resources
+d:\Users\liuyb\documents\visual studio 2013\Projects\ContosoSiteCodeFirst\ContosoSiteCodeFirst\obj\Debug\ContosoSiteCodeFirst.Migrations.ComplexDataModel.resources
